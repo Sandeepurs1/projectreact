@@ -11,3 +11,37 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body{
+  font-family: Tahoma;
+  background-color: rgb(231, 231, 206);
+}
+.container{
+  background-color: rgb(197, 207, 195);
+  position: relative;
+  margin-top: 20px;
+}
+
+.navbar{
+  height:100px;
+  width:1260px;
+  background-color: rgb(205, 202, 191);
+
+}
+
+.navbartext{
+  color:black;
+  font-size:x-large;
+  
+  font-weight: 800;
+  text-decoration: none;
+  text-align: center;
+  position: relative;
+  margin-left: 550px;
+}
+
+h4{
+  font-size:x-large;
+  
+  font-weight: 800;
+
+}
